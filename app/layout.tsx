@@ -7,7 +7,7 @@ import { ThemeProvider } from "next-themes";
 export const metadata: Metadata = {
   title: "Kaban App",
   description:
-    "Aplicação de gerenciamento de tarefas com Next.js 13 e Tailwind CSS",
+    "Aplicação de gerenciamento de tarefas com Next.js e Tailwind CSS",
 };
 
 export default function RootLayout({
