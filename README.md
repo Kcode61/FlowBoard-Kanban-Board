@@ -9,7 +9,7 @@ A ideia do projeto é manter tudo o mais simples possível, sem overengineering,
 
 ## Acesso ao projeto
 
-Você pode acessar o projeto online aqui:
+Você pode acessar o projeto online aqui: https://flowboard-kanban-board.pages.dev
 
 
 ---
